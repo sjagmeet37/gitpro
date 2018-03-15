@@ -20,7 +20,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_margin="10dp"
+        android:layout_margin="11dp"
         android:hint="Password"
         android:background="@drawable/rect"
         android:gravity="center"
@@ -28,7 +28,7 @@
         android:id="@+id/password" />
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="310dp"
         android:layout_height="wrap_content"
         android:text="Signup"
         android:id="@+id/signup"
