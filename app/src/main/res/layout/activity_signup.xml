@@ -30,7 +30,7 @@
     <Button
         android:layout_width="310dp"
         android:layout_height="wrap_content"
-        android:text="Signup"
+        android:text="Signups"
         android:id="@+id/signup"
         android:layout_below="@+id/password"
         android:background="@drawable/rect"
