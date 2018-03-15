@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833438987417",
+    "firebase_url": "https://fir-app-11b7d.firebaseio.com",
+    "project_id": "fir-app-11b7d",
+    "storage_bucket": "fir-app-11b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833438987417:android:1952621c56558479",
+        "android_client_info": {
+          "package_name": "com.lenovo.jagmeet.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833438987417-b7ejal26k3e3ep8083vrcq7cgh3m3egc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-JmiUrthZad3jAvcTSjLs1x8vq0ClH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
